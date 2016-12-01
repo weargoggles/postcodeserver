@@ -2,4 +2,4 @@ Flask==0.9
 gevent==0.13.8
 gunicorn==0.17.2
 marisa-trie==0.4
-python-geohash==0.8.4
+python-geohash==0.8.5
